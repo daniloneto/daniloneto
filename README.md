@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! 🎸🤘
+- 🌱 Estou aprendendo **React** e **Next.js**
+- 📫 Como me encontrar: LinkedIn
 
-<!--
-**daniloneto/daniloneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estatísticas do GitHub
+!João's GitHub stats
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+!C#
+!Java
+!Node
+!MongoDB
+!AWS
+!Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Gráfico de Atividades
+!João's github activity graph
+
