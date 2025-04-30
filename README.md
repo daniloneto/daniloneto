@@ -1,4 +1,4 @@
-## 👋 Olá, sou o Danilo Neto
+## 👋 Olá, sou Danilo Neto
 
 🎯 Software Engineer | Backend & Cloud Enthusiast
 
